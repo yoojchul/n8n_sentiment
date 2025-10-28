@@ -6,28 +6,28 @@
   
 실행에는 서비스 접속을 위한 ID가 각각 필요합니다.  Naver API에는 X-Naver-Client-Id와 X-Naver-Client-Secret를 입력해야 합니다.
 
-<naver>
+![Alt text](naver.png)
 
 https://developers.naver.com/docs/serviceapi/search/news/news.md  참조
 
 
 OpenAI에는 API key가 있어야 하고 
 
-<openai>
+![Alt text](openai.png)
 
 https://platform.openai.com/api-keys  참조
 
 그리고 Google sheet 사용을 위한 credential은 service account로 만듭니다. 
 
-<google>
+![Alt text](google.png)
 
 마지막 google sheet 지정을 위해 ID가 필요한데 URL에서 볼 수 있습니다
 
-<google_sheet2>
+![Alt text](google_sheet2.png)
 
 ID는 Document에 "By ID"로 지정하고 해당 파일의 공유 특성도 "편집자"로 변경해야 "시트1"를 볼 수 있고 편집이 가능합니다. 
 
-<google_sheet>
+![Alt text](google_sheet.png)
 
 
 
