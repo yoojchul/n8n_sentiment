@@ -8,14 +8,14 @@
 
 ![Alt text](images/naver.png)
 
-https://developers.naver.com/docs/serviceapi/search/news/news.md  참조
+(https://developers.naver.com/docs/serviceapi/search/news/news.md  참조)
 
 
 OpenAI에는 API key가 있어야 하고 
 
 ![Alt text](images/openai.png)
 
-https://platform.openai.com/api-keys  참조
+(https://platform.openai.com/api-keys  참조)
 
 그리고 Google sheet 사용을 위한 credential은 service account로 만듭니다. 
 
