@@ -25,7 +25,7 @@ https://platform.openai.com/api-keys  참조
 
 ![Alt text](google_sheet2.png)
 
-ID는 Document에 "By ID"로 지정하고 해당 파일의 공유 특성도 "편집자"로 변경해야 "시트1"를 볼 수 있고 편집이 가능합니다. 
+ID는 Document에 "By ID"로 지정하고 구글 드라이브에서 해당 파일의 공유 특성도 "편집자"로 변경해야 "시트1"를 볼 수 있고 편집이 가능합니다. 
 
 ![Alt text](google_sheet.png)
 
