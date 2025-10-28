@@ -2,7 +2,7 @@
 
 이 workflow는 n8n를 사용해서 naver API를 통해 특정 keyword에 관한 뉴스 기사를 검색하고 오늘 날짜로 된 기사로 크로링으로 전문을 모두 가져 옵니다.  그리고 <body>에 포함된 text만 뽑아 sentiment analysis에 넘깁니다. sentiment analysis에는 OpenAPI를 이용합니다. Positive, Neutral 그리고 Negative를 따로 count하는 java script를 거쳐서 Google sheet에 count 수를 기록합니다. 
 
-<overall>
+![Alt text](overall.png)
   
 실행에는 서비스 접속을 위한 ID가 각각 필요합니다.  Naver API에는 X-Naver-Client-Id와 X-Naver-Client-Secret를 입력해야 합니다.
 
