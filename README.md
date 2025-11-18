@@ -35,7 +35,7 @@ Webhook1는 아래 명령어로 시작합니다.
 
 ### n8n environments
 ```
-n8n : 1.119.2
+n8n : 1.118.2
 nodejs : v22.21.0
 OS: ubuntu 24.04.02
 ```
